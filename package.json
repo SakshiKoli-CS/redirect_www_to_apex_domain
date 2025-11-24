@@ -1,0 +1,20 @@
+{
+  "name": "redirect-www-to-apex",
+  "version": "1.0.0",
+  "description": "Contentstack Launch Edge Function to redirect www subdomain to apex domain",
+  "main": "functions/[proxy].edge.js",
+  "scripts": {
+    "install": "echo 'No dependencies required for this edge function'"
+  },
+  "keywords": [
+    "contentstack",
+    "launch",
+    "edge-function",
+    "redirect",
+    "www",
+    "apex-domain"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
