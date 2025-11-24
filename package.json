@@ -4,6 +4,7 @@
   "description": "Contentstack Launch Edge Function to redirect www subdomain to apex domain",
   "main": "functions/[proxy].edge.js",
   "scripts": {
+    "build": "echo 'No build step required - static site with edge function'",
     "install": "echo 'No dependencies required for this edge function'"
   },
   "keywords": [
